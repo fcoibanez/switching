@@ -1,0 +1,4 @@
+.gitattributes
+.idea
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/
